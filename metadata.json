@@ -1,0 +1,5 @@
+{
+  "name": "quản lý công việc (không được sửa đã đua lên)",
+  "description": "Ứng dụng quản lý lịch làm việc tối ưu cho Content Creator với AI Auto-allocation và Notion Sync.",
+  "requestFramePermissions": []
+}
